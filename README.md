@@ -15,8 +15,6 @@ This project provides an interactive *HR Analytics Dashboard* designed in *Power
 2. Explore different visualizations and filters  
 3. Analyze key HR metrics to make data-driven decisions  
 
-## Dashboard Interaction
-<a href="">View Dashboard</a>
 
 ## Screenshots  
 ![Screenshot 2025-02-11 221613](https://github.com/user-attachments/assets/2975ab57-e9c5-4596-8cbb-38fd0c6f1d82)
